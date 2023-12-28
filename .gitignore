@@ -26,6 +26,11 @@ xcuserdata/
 *.xcuserstate
 *.xcscmblueprint
 
+# SPM
+.swiftpm
+.netrc
+Package.resolved
+
 ## Obj-C/Swift specific
 *.hmap
 *.ipa
